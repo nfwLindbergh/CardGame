@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="slask" type="PLAIN_TEXT" />
+      <mapping pattern="Fel" type="PLAIN_TEXT" />
+      <mapping pattern="Slask" type="PLAIN_TEXT" />
+      <mapping pattern="Grundkod" type="PLAIN_TEXT" />
+      <mapping pattern="Pets" type="PLAIN_TEXT" />
+      <mapping ext="lnk" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
